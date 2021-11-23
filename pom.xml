@@ -26,6 +26,11 @@
      	
   </properties>
 	
+  <properties>
+          <sonar.organization>raghavendra3995</sonar.organization>
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+	
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
